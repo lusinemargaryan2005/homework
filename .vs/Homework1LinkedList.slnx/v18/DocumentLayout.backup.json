@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lusin\\source\\repos\\Homework1LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3C26BA-C73C-466B-AC9A-63A89DC1261A}|Homework1LinkedList\\Homework1LinkedList.csproj|c:\\users\\lusin\\source\\repos\\homework1linkedlist\\homework1linkedlist\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3C26BA-C73C-466B-AC9A-63A89DC1261A}|Homework1LinkedList\\Homework1LinkedList.csproj|solutionrelative:homework1linkedlist\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3C26BA-C73C-466B-AC9A-63A89DC1261A}|Homework1LinkedList\\Homework1LinkedList.csproj|c:\\users\\lusin\\source\\repos\\homework1linkedlist\\homework1linkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3C26BA-C73C-466B-AC9A-63A89DC1261A}|Homework1LinkedList\\Homework1LinkedList.csproj|solutionrelative:homework1linkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\source\\repos\\Homework1LinkedList\\Homework1LinkedList\\MyLinkedList.cs",
+              "RelativeDocumentMoniker": "Homework1LinkedList\\MyLinkedList.cs",
+              "ToolTip": "C:\\Users\\lusin\\source\\repos\\Homework1LinkedList\\Homework1LinkedList\\MyLinkedList.cs",
+              "RelativeToolTip": "Homework1LinkedList\\MyLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T18:58:14.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyLinkedListNode.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\source\\repos\\Homework1LinkedList\\Homework1LinkedList\\MyLinkedListNode.cs",
+              "RelativeDocumentMoniker": "Homework1LinkedList\\MyLinkedListNode.cs",
+              "ToolTip": "C:\\Users\\lusin\\source\\repos\\Homework1LinkedList\\Homework1LinkedList\\MyLinkedListNode.cs",
+              "RelativeToolTip": "Homework1LinkedList\\MyLinkedListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T18:57:47.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

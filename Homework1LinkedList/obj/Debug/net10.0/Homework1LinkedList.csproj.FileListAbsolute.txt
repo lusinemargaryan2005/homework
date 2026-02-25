@@ -1,0 +1,4 @@
+C:\Users\lusin\source\repos\Homework1LinkedList\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusin\source\repos\Homework1LinkedList\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.AssemblyInfoInputs.cache
+C:\Users\lusin\source\repos\Homework1LinkedList\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.AssemblyInfo.cs
+C:\Users\lusin\source\repos\Homework1LinkedList\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.csproj.CoreCompileInputs.cache
