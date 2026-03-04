@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Homework1LinkedList/Homework1LinkedList.csproj" />
+  <Project Path="MyStack/MyStack.csproj" Id="4dab390c-500a-4e40-a5d8-0ffac6f54e85" />
+  <Project Path="Task/Task.csproj" Id="2cfe3135-1321-4dc3-bd92-4f74b497c7e0" />
 </Solution>

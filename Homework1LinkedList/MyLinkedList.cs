@@ -1,7 +1,5 @@
 ﻿using MyLinkedList.Internal;
-using System;
 using System.Collections;
-using System.Collections.Generic;
 
 namespace LinkedListBigPicture;
 
