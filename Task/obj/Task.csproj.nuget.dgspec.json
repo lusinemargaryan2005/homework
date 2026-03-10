@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lusin\\Documents\\work\\homework1\\Task\\Task.csproj": {}
+    "C:\\Users\\lusin\\source\\repos\\homework11\\Task\\Task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj": {
+    "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj",
         "projectName": "Homework1LinkedList",
-        "projectPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj",
+        "projectPath": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj",
         "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\obj\\",
+        "outputPath": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -343,14 +343,14 @@
         }
       }
     },
-    "C:\\Users\\lusin\\Documents\\work\\homework1\\MyStack\\MyStack.csproj": {
+    "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\homework1\\MyStack\\MyStack.csproj",
+        "projectUniqueName": "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.csproj",
         "projectName": "MyStack",
-        "projectPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\MyStack\\MyStack.csproj",
+        "projectPath": "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.csproj",
         "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\MyStack\\obj\\",
+        "outputPath": "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -371,8 +371,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj": {
-                "projectPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj"
+              "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj": {
+                "projectPath": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj"
               }
             }
           }
@@ -686,14 +686,14 @@
         }
       }
     },
-    "C:\\Users\\lusin\\Documents\\work\\homework1\\Task\\Task.csproj": {
+    "C:\\Users\\lusin\\source\\repos\\homework11\\Task\\Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\homework1\\Task\\Task.csproj",
+        "projectUniqueName": "C:\\Users\\lusin\\source\\repos\\homework11\\Task\\Task.csproj",
         "projectName": "Task",
-        "projectPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\Task\\Task.csproj",
+        "projectPath": "C:\\Users\\lusin\\source\\repos\\homework11\\Task\\Task.csproj",
         "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\Task\\obj\\",
+        "outputPath": "C:\\Users\\lusin\\source\\repos\\homework11\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -714,11 +714,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj": {
-                "projectPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj"
+              "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj": {
+                "projectPath": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj"
               },
-              "C:\\Users\\lusin\\Documents\\work\\homework1\\MyStack\\MyStack.csproj": {
-                "projectPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\MyStack\\MyStack.csproj"
+              "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.csproj": {
+                "projectPath": "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.csproj"
               }
             }
           }

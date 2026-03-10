@@ -60,7 +60,7 @@ public class MyLinkedList<T> : ICollection<T>
 
     public void AddFirst(T item) => AddFirst(new MyLinkedListNode<T>(item));
 
-    private void AddFirst(MyLinkedListNode<T> node)
+    public void AddFirst(MyLinkedListNode<T> node)
     {
         MyLinkedListNode<T> temp = Head;
         Head = node;
@@ -76,7 +76,7 @@ public class MyLinkedList<T> : ICollection<T>
     }
 
 
-    private void AddLast(MyLinkedListNode<T> node)
+    public void AddLast(MyLinkedListNode<T> node)
     {
         if (Count == 0)
             Head = node;

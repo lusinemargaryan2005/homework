@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\",
+  "WorkspaceRootPath": "C:\\Users\\lusin\\source\\repos\\homework11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\documents\\work\\homework1\\task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|solutionrelative:task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9F768FDC-2011-40F8-919B-DCFBBF2FA5EB}|MyQueue\\MyQueue.csproj|c:\\users\\lusin\\source\\repos\\homework11\\myqueue\\myqueue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F768FDC-2011-40F8-919B-DCFBBF2FA5EB}|MyQueue\\MyQueue.csproj|solutionrelative:myqueue\\myqueue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|c:\\users\\lusin\\documents\\work\\homework1\\homework1linkedlist\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F768FDC-2011-40F8-919B-DCFBBF2FA5EB}|MyQueue\\MyQueue.csproj|c:\\users\\lusin\\source\\repos\\homework11\\myqueue\\myqueue_projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F768FDC-2011-40F8-919B-DCFBBF2FA5EB}|MyQueue\\MyQueue.csproj|solutionrelative:myqueue\\myqueue_projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|c:\\users\\lusin\\source\\repos\\homework11\\homework1linkedlist\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|solutionrelative:homework1linkedlist\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAB390C-500A-4E40-A5D8-0FFAC6F54E85}|MyStack\\MyStack.csproj|c:\\users\\lusin\\documents\\work\\homework1\\mystack\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DAB390C-500A-4E40-A5D8-0FFAC6F54E85}|MyStack\\MyStack.csproj|c:\\users\\lusin\\source\\repos\\homework11\\mystack\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DAB390C-500A-4E40-A5D8-0FFAC6F54E85}|MyStack\\MyStack.csproj|solutionrelative:mystack\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\documents\\work\\homework1\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|c:\\users\\lusin\\source\\repos\\homework11\\homework1linkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|solutionrelative:homework1linkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|c:\\users\\lusin\\documents\\work\\homework1\\homework1linkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|solutionrelative:homework1linkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\source\\repos\\homework11\\task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|solutionrelative:task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\source\\repos\\homework11\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,10 +43,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\homework1\\Task\\Task.csproj",
+              "Title": "MyQueue.csproj",
+              "DocumentMoniker": "C:\\Users\\lusin\\source\\repos\\homework11\\MyQueue\\MyQueue.csproj",
+              "RelativeDocumentMoniker": "MyQueue\\MyQueue.csproj",
+              "ToolTip": "C:\\Users\\lusin\\source\\repos\\homework11\\MyQueue\\MyQueue.csproj",
+              "RelativeToolTip": "MyQueue\\MyQueue.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T05:47:09.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyQueue_projects.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\source\\repos\\homework11\\MyQueue\\MyQueue_projects.cs",
+              "RelativeDocumentMoniker": "MyQueue\\MyQueue_projects.cs",
+              "ToolTip": "C:\\Users\\lusin\\source\\repos\\homework11\\MyQueue\\MyQueue_projects.cs",
+              "RelativeToolTip": "MyQueue\\MyQueue_projects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:46:31.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.csproj",
+              "DocumentMoniker": "C:\\Users\\lusin\\source\\repos\\homework11\\Task\\Task.csproj",
               "RelativeDocumentMoniker": "Task\\Task.csproj",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\homework1\\Task\\Task.csproj",
+              "ToolTip": "C:\\Users\\lusin\\source\\repos\\homework11\\Task\\Task.csproj",
               "RelativeToolTip": "Task\\Task.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -47,55 +80,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\homework1\\Task\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\source\\repos\\homework11\\Task\\Program.cs",
               "RelativeDocumentMoniker": "Task\\Program.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\homework1\\Task\\Program.cs",
+              "ToolTip": "C:\\Users\\lusin\\source\\repos\\homework11\\Task\\Program.cs",
               "RelativeToolTip": "Task\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T17:21:33.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T17:21:33.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.cs",
+              "RelativeDocumentMoniker": "MyStack\\MyStack.cs",
+              "ToolTip": "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.cs",
+              "RelativeToolTip": "MyStack\\MyStack.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:20:16.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MyStack.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\homework1\\MyStack\\MyStack.cs",
-              "RelativeDocumentMoniker": "MyStack\\MyStack.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\homework1\\MyStack\\MyStack.cs",
-              "RelativeToolTip": "MyStack\\MyStack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T17:20:16.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MyLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\MyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\MyLinkedList.cs",
               "RelativeDocumentMoniker": "Homework1LinkedList\\MyLinkedList.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\MyLinkedList.cs",
+              "ToolTip": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\MyLinkedList.cs",
               "RelativeToolTip": "Homework1LinkedList\\MyLinkedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:58:14.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:58:14.802Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MyLinkedListNode.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\MyLinkedListNode.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\MyLinkedListNode.cs",
               "RelativeDocumentMoniker": "Homework1LinkedList\\MyLinkedListNode.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\MyLinkedListNode.cs",
+              "ToolTip": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\MyLinkedListNode.cs",
               "RelativeToolTip": "Homework1LinkedList\\MyLinkedListNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:57:47.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:57:47.822Z"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.csproj": {}
+    "C:\\Users\\lusin\\source\\repos\\homework11\\MyQueue\\MyQueue.csproj": {}
   },
   "projects": {
     "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj": {
@@ -343,14 +343,14 @@
         }
       }
     },
-    "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.csproj": {
+    "C:\\Users\\lusin\\source\\repos\\homework11\\MyQueue\\MyQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.csproj",
-        "projectName": "MyStack",
-        "projectPath": "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\MyStack.csproj",
+        "projectUniqueName": "C:\\Users\\lusin\\source\\repos\\homework11\\MyQueue\\MyQueue.csproj",
+        "projectName": "MyQueue",
+        "projectPath": "C:\\Users\\lusin\\source\\repos\\homework11\\MyQueue\\MyQueue.csproj",
         "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusin\\source\\repos\\homework11\\MyStack\\obj\\",
+        "outputPath": "C:\\Users\\lusin\\source\\repos\\homework11\\MyQueue\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

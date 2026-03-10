@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj": {}
+    "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj": {
+    "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj",
         "projectName": "Homework1LinkedList",
-        "projectPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\Homework1LinkedList.csproj",
+        "projectPath": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\Homework1LinkedList.csproj",
         "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusin\\Documents\\work\\homework1\\Homework1LinkedList\\obj\\",
+        "outputPath": "C:\\Users\\lusin\\source\\repos\\homework11\\Homework1LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
