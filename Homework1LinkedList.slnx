@@ -2,5 +2,6 @@
   <Project Path="Homework1LinkedList/Homework1LinkedList.csproj" />
   <Project Path="MyQueue/MyQueue.csproj" Id="9f768fdc-2011-40f8-919b-dcfbbf2fa5eb" />
   <Project Path="MyStack/MyStack.csproj" Id="4dab390c-500a-4e40-a5d8-0ffac6f54e85" />
+  <Project Path="StackArray/StackArray.csproj" Id="220eb9f9-71f4-4627-b195-104a48f66285" />
   <Project Path="Task/Task.csproj" Id="2cfe3135-1321-4dc3-bd92-4f74b497c7e0" />
 </Solution>
