@@ -1,0 +1,16 @@
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\bin\Debug\net10.0\MyStack.deps.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\bin\Debug\net10.0\MyStack.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\bin\Debug\net10.0\MyStack.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\bin\Debug\net10.0\Homework1LinkedList.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\bin\Debug\net10.0\Homework1LinkedList.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\MyStack.csproj.AssemblyReference.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\MyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\MyStack.AssemblyInfoInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\MyStack.AssemblyInfo.cs
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\MyStack.sourcelink.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\MyStack.csproj.Up2Date
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\MyStack.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\refint\MyStack.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\MyStack.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyStack\obj\Debug\net10.0\ref\MyStack.dll

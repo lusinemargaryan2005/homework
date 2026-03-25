@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyStack\\MyStack.csproj": {}
+    "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyStack\\MyStack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lusin\\Documents\\work\\Homework3\\Homework1LinkedList\\Homework1LinkedList.csproj": {
+    "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Homework1LinkedList\\Homework1LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Homework1LinkedList\\Homework1LinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Homework1LinkedList\\Homework1LinkedList.csproj",
         "projectName": "Homework1LinkedList",
-        "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Homework1LinkedList\\Homework1LinkedList.csproj",
+        "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Homework1LinkedList\\Homework1LinkedList.csproj",
         "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Homework1LinkedList\\obj\\",
+        "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Homework1LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -343,14 +343,14 @@
         }
       }
     },
-    "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyStack\\MyStack.csproj": {
+    "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyStack\\MyStack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyStack\\MyStack.csproj",
+        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyStack\\MyStack.csproj",
         "projectName": "MyStack",
-        "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyStack\\MyStack.csproj",
+        "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyStack\\MyStack.csproj",
         "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyStack\\obj\\",
+        "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyStack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -371,8 +371,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\lusin\\Documents\\work\\Homework3\\Homework1LinkedList\\Homework1LinkedList.csproj": {
-                "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Homework1LinkedList\\Homework1LinkedList.csproj"
+              "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Homework1LinkedList\\Homework1LinkedList.csproj": {
+                "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Homework1LinkedList\\Homework1LinkedList.csproj"
               }
             }
           }
@@ -387,7 +387,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -408,7 +408,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

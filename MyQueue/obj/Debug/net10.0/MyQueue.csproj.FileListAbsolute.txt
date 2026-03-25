@@ -1,0 +1,16 @@
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\MyQueue.csproj.AssemblyReference.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\MyQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\MyQueue.AssemblyInfoInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\MyQueue.AssemblyInfo.cs
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\MyQueue.csproj.CoreCompileInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\MyQueue.sourcelink.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\bin\Debug\net10.0\MyQueue.deps.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\bin\Debug\net10.0\MyQueue.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\bin\Debug\net10.0\MyQueue.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\bin\Debug\net10.0\Homework1LinkedList.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\bin\Debug\net10.0\Homework1LinkedList.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\MyQueue.csproj.Up2Date
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\MyQueue.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\refint\MyQueue.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\MyQueue.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyQueue\obj\Debug\net10.0\ref\MyQueue.dll

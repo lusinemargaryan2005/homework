@@ -1,0 +1,15 @@
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\bin\Debug\net10.0\MyHashAlgorithm.exe
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\bin\Debug\net10.0\MyHashAlgorithm.deps.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\bin\Debug\net10.0\MyHashAlgorithm.runtimeconfig.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\bin\Debug\net10.0\MyHashAlgorithm.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\bin\Debug\net10.0\MyHashAlgorithm.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\obj\Debug\net10.0\MyHashAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\obj\Debug\net10.0\MyHashAlgorithm.AssemblyInfoInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\obj\Debug\net10.0\MyHashAlgorithm.AssemblyInfo.cs
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\obj\Debug\net10.0\MyHashAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\obj\Debug\net10.0\MyHashAlgorithm.sourcelink.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\obj\Debug\net10.0\MyHashAlgorithm.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\obj\Debug\net10.0\refint\MyHashAlgorithm.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\obj\Debug\net10.0\MyHashAlgorithm.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\obj\Debug\net10.0\MyHashAlgorithm.genruntimeconfig.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyHashAlgorithm\obj\Debug\net10.0\ref\MyHashAlgorithm.dll

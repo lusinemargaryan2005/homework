@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lusin\\Documents\\work\\Homework3\\",
+  "WorkspaceRootPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{220EB9F9-71F4-4627-B195-104A48F66285}|StackArray\\StackArray.csproj|c:\\users\\lusin\\documents\\work\\homework3\\stackarray\\mystackarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{220EB9F9-71F4-4627-B195-104A48F66285}|StackArray\\StackArray.csproj|solutionrelative:stackarray\\mystackarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F768FDC-2011-40F8-919B-DCFBBF2FA5EB}|MyQueue\\MyQueue.csproj|c:\\users\\lusin\\documents\\work\\homework3\\myqueue\\myqueue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9F768FDC-2011-40F8-919B-DCFBBF2FA5EB}|MyQueue\\MyQueue.csproj|solutionrelative:myqueue\\myqueue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F768FDC-2011-40F8-919B-DCFBBF2FA5EB}|MyQueue\\MyQueue.csproj|c:\\users\\lusin\\documents\\work\\homework3\\myqueue\\myqueue_projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F768FDC-2011-40F8-919B-DCFBBF2FA5EB}|MyQueue\\MyQueue.csproj|solutionrelative:myqueue\\myqueue_projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|c:\\users\\lusin\\documents\\work\\homework3\\homework1linkedlist\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|solutionrelative:homework1linkedlist\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DAB390C-500A-4E40-A5D8-0FFAC6F54E85}|MyStack\\MyStack.csproj|c:\\users\\lusin\\documents\\work\\homework3\\mystack\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAB390C-500A-4E40-A5D8-0FFAC6F54E85}|MyStack\\MyStack.csproj|solutionrelative:mystack\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|c:\\users\\lusin\\documents\\work\\homework3\\homework1linkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6267CF6-1C0E-55E8-6F67-6A2A77FB74BA}|Homework1LinkedList\\Homework1LinkedList.csproj|solutionrelative:homework1linkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\documents\\work\\homework3\\task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|solutionrelative:task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\documents\\work\\homework3\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\documents\\work\\homework_binary_tree\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5239CE22-D58D-4220-84FA-4CF8FBF97C29}|Binarytree\\Binarytree.csproj|c:\\users\\lusin\\documents\\work\\homework_binary_tree\\binarytree\\mybinarytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5239CE22-D58D-4220-84FA-4CF8FBF97C29}|Binarytree\\Binarytree.csproj|solutionrelative:binarytree\\mybinarytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F5FA5F-1C9C-4DF6-8065-B7B40837C510}|MyHashAlgorithm\\MyHashAlgorithm.csproj|c:\\users\\lusin\\documents\\work\\homework_binary_tree\\myhashalgorithm\\myhashalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F5FA5F-1C9C-4DF6-8065-B7B40837C510}|MyHashAlgorithm\\MyHashAlgorithm.csproj|solutionrelative:myhashalgorithm\\myhashalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F5FA5F-1C9C-4DF6-8065-B7B40837C510}|MyHashAlgorithm\\MyHashAlgorithm.csproj|c:\\users\\lusin\\documents\\work\\homework_binary_tree\\myhashalgorithm\\myhashalgorithm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36F5FA5F-1C9C-4DF6-8065-B7B40837C510}|MyHashAlgorithm\\MyHashAlgorithm.csproj|solutionrelative:myhashalgorithm\\myhashalgorithm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,101 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyStackArray.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework3\\StackArray\\MyStackArray.cs",
-              "RelativeDocumentMoniker": "StackArray\\MyStackArray.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework3\\StackArray\\MyStackArray.cs",
-              "RelativeToolTip": "StackArray\\MyStackArray.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T19:37:09.61Z",
+              "WhenOpened": "2026-03-25T19:28:51.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MyQueue.csproj",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyQueue\\MyQueue.csproj",
-              "RelativeDocumentMoniker": "MyQueue\\MyQueue.csproj",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyQueue\\MyQueue.csproj",
-              "RelativeToolTip": "MyQueue\\MyQueue.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-05T05:47:09.351Z",
+              "Title": "MyBinarytreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Binarytree\\MyBinarytreeNode.cs",
+              "RelativeDocumentMoniker": "Binarytree\\MyBinarytreeNode.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Binarytree\\MyBinarytreeNode.cs",
+              "RelativeToolTip": "Binarytree\\MyBinarytreeNode.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:28:38.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MyQueue_projects.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyQueue\\MyQueue_projects.cs",
-              "RelativeDocumentMoniker": "MyQueue\\MyQueue_projects.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyQueue\\MyQueue_projects.cs",
-              "RelativeToolTip": "MyQueue\\MyQueue_projects.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Title": "MyHashAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyHashAlgorithm\\MyHashAlgorithm.cs",
+              "RelativeDocumentMoniker": "MyHashAlgorithm\\MyHashAlgorithm.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyHashAlgorithm\\MyHashAlgorithm.cs",
+              "RelativeToolTip": "MyHashAlgorithm\\MyHashAlgorithm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T05:46:31.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Task.csproj",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Task\\Task.csproj",
-              "RelativeDocumentMoniker": "Task\\Task.csproj",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Task\\Task.csproj",
-              "RelativeToolTip": "Task\\Task.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-04T17:21:43.44Z",
+              "WhenOpened": "2026-03-25T19:27:17.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Task\\Program.cs",
-              "RelativeDocumentMoniker": "Task\\Program.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Task\\Program.cs",
-              "RelativeToolTip": "Task\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T17:21:33.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MyStack.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyStack\\MyStack.cs",
-              "RelativeDocumentMoniker": "MyStack\\MyStack.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework3\\MyStack\\MyStack.cs",
-              "RelativeToolTip": "MyStack\\MyStack.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T17:20:16.927Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MyLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Homework1LinkedList\\MyLinkedList.cs",
-              "RelativeDocumentMoniker": "Homework1LinkedList\\MyLinkedList.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Homework1LinkedList\\MyLinkedList.cs",
-              "RelativeToolTip": "Homework1LinkedList\\MyLinkedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:58:14.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MyLinkedListNode.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Homework1LinkedList\\MyLinkedListNode.cs",
-              "RelativeDocumentMoniker": "Homework1LinkedList\\MyLinkedListNode.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework3\\Homework1LinkedList\\MyLinkedListNode.cs",
-              "RelativeToolTip": "Homework1LinkedList\\MyLinkedListNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:57:47.822Z"
+              "Title": "MyHashAlgorithm",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyHashAlgorithm\\MyHashAlgorithm.csproj",
+              "RelativeDocumentMoniker": "MyHashAlgorithm\\MyHashAlgorithm.csproj",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyHashAlgorithm\\MyHashAlgorithm.csproj",
+              "RelativeToolTip": "MyHashAlgorithm\\MyHashAlgorithm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T16:32:50.024Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,7 +1,6 @@
 ﻿using LinkedListBigPicture;
 using MyLinkedList.Internal;
 using System.Collections;
-using System.Globalization;
 
 namespace MyQueue;
 
@@ -18,13 +17,17 @@ public class MyQueue_projects<T> : IEnumerable<T>
     public T Dequeue()
     {
         if (items.Head == null)
-            throw new InvalidOperationException("empty");
         {
-            T value = items.Head.Value;
-            items.RemoveFirst();
-            return value;
+            throw new InvalidOperationException("Queue is empty");
         }
-   public T Peek() 
+
+        T value = items.Head.Value;
+
+        items.RemoveFirst();
+
+        return value;
+    }
+    public T Peek() 
     {
         T value = items.Head.Value;
         return value;

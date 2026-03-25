@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homework1LinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b03fb9cb62a43190849f6ca7963b255d99874c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fae2137467aaf88cd382df3794c6df05db8412ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homework1LinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homework1LinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

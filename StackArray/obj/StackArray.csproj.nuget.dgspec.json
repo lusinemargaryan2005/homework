@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lusin\\Documents\\work\\Homework3\\StackArray\\StackArray.csproj": {}
+    "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\StackArray\\StackArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lusin\\Documents\\work\\Homework3\\StackArray\\StackArray.csproj": {
+    "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\StackArray\\StackArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework3\\StackArray\\StackArray.csproj",
+        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\StackArray\\StackArray.csproj",
         "projectName": "StackArray",
-        "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework3\\StackArray\\StackArray.csproj",
+        "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\StackArray\\StackArray.csproj",
         "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework3\\StackArray\\obj\\",
+        "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\StackArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

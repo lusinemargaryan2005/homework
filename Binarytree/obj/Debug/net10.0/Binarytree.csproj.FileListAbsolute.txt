@@ -1,0 +1,12 @@
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\bin\Debug\net10.0\Binarytree.deps.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\bin\Debug\net10.0\Binarytree.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\bin\Debug\net10.0\Binarytree.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\obj\Debug\net10.0\Binarytree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\obj\Debug\net10.0\Binarytree.AssemblyInfoInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\obj\Debug\net10.0\Binarytree.AssemblyInfo.cs
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\obj\Debug\net10.0\Binarytree.csproj.CoreCompileInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\obj\Debug\net10.0\Binarytree.sourcelink.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\obj\Debug\net10.0\Binarytree.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\obj\Debug\net10.0\refint\Binarytree.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\obj\Debug\net10.0\Binarytree.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\Binarytree\obj\Debug\net10.0\ref\Binarytree.dll

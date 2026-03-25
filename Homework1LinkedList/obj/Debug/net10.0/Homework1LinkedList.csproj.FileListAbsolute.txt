@@ -2,3 +2,15 @@ C:\Users\lusin\source\repos\Homework1LinkedList\Homework1LinkedList\obj\Debug\ne
 C:\Users\lusin\source\repos\Homework1LinkedList\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.AssemblyInfoInputs.cache
 C:\Users\lusin\source\repos\Homework1LinkedList\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.AssemblyInfo.cs
 C:\Users\lusin\source\repos\Homework1LinkedList\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\bin\Debug\net10.0\Homework1LinkedList.deps.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\bin\Debug\net10.0\Homework1LinkedList.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\bin\Debug\net10.0\Homework1LinkedList.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.AssemblyInfoInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.AssemblyInfo.cs
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.sourcelink.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\obj\Debug\net10.0\refint\Homework1LinkedList.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\obj\Debug\net10.0\Homework1LinkedList.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\Homework1LinkedList\obj\Debug\net10.0\ref\Homework1LinkedList.dll
