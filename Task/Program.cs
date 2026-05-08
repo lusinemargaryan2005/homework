@@ -3,22 +3,24 @@ using BinaryTree;
 using LinkedListBigPicture;
 using MyQueue;
 using MyStack;
-
+using MyBubleSort;
 class Program
 {
     static void Main(string[] args)
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
-
         TestBinaryTree();
         TestLinkedList();
         TestQueue();
         TestStack();
-
+        TestBubbleSort();
+        TestMargeSort();
+        TestInsertionSort();
+        TestQuickSort();
+        TestSelectionSort();
         Console.WriteLine("\nԱվարտված է:");
         Console.ReadKey();
     }
-
 
     static void TestBinaryTree()
     {
@@ -31,10 +33,8 @@ class Program
         tree.Add(40);
         tree.Add(60);
         tree.Add(80);
-
         Console.WriteLine($"Does tree contain 40? {tree.Contains(40)}");
         Console.WriteLine($"Does tree contain 99? {tree.Contains(99)}");
-
         Console.WriteLine("Elements in InOrder (Sorted):");
         foreach (int value in tree)
         {
@@ -51,16 +51,13 @@ class Program
         myList.AddLast(20);
         myList.AddLast(30);
         myList.AddFirst(5);
-
         Console.WriteLine($"Count after adding: {myList.Count}");
         foreach (var item in myList)
         {
             Console.WriteLine(item);
         }
-
         myList.RemoveLast();
         myList.RemoveFirst();
-
         Console.WriteLine("Final List elements:");
         foreach (var item in myList)
         {
@@ -75,7 +72,6 @@ class Program
         queue.Enqueue(100);
         queue.Enqueue(200);
         queue.Enqueue(300);
-
         while (queue.Count > 0)
         {
             Console.WriteLine($"Dequeued: {queue.Dequeue()}");
@@ -89,10 +85,65 @@ class Program
         stack.Push(10);
         stack.Push(20);
         stack.Push(30);
-
         while (stack.Count > 0)
         {
             Console.WriteLine($"Popped: {stack.Pop()}");
         }
     }
+
+    static void TestBubbleSort()
+    {
+        Console.WriteLine("\n=== 5. My Bubble Sort Test ===");
+        int[] numbers = { 52, 10, 85, 24, 61, 3, 11 };
+        MyBubbleSort<int> intSorter = new MyBubbleSort<int>();
+        Console.WriteLine("Նախնական թվեր: " + string.Join(", ", numbers));
+        intSorter.Sort(numbers);
+        Console.WriteLine("Տեսակավորված թվեր: " + string.Join(", ", numbers));
+    }
+
+    static void TestMargeSort()
+    {
+        Console.WriteLine("\n=== 6. My Marge Sort Test ===");
+        int[] numbers = { 52, 10, 85, 24, 61, 3, 11 };
+        MargeSort<int> intSorter = new MargeSort<int>();
+        Console.WriteLine("Նախնական թվեր: " + string.Join(", ", numbers));
+        intSorter.Sort(numbers);
+        Console.WriteLine("Տեսակավորված թվեր: " + string.Join(", ", numbers));
+    }
+    static void TestInsertionSort()
+    {
+        Console.WriteLine("\n=== 7. My Insertion Sort Test ===");
+        int[] numbers = { 52, 10, 85, 24, 61, 3, 11 };
+        MyInsertionSort<int> intSorter = new MyInsertionSort<int>();
+
+        Console.WriteLine("Նախնական թվեր: " + string.Join(", ", numbers));
+        intSorter.Sort(numbers);
+        Console.WriteLine("Տեսակավորված թվեր: " + string.Join(", ", numbers));
+    }
+
+    static void TestQuickSort() 
+    {
+        Console.WriteLine("\n=== 8. My Quick Sort Test ===");
+        int[] numbers = { 52, 10, 85, 24, 61, 3, 11 };
+        MyQuickSort<int> intSorter = new MyQuickSort<int>();
+
+        Console.WriteLine("Նախնական թվեր: " + string.Join(", ", numbers));
+        intSorter.Sort(numbers);
+        Console.WriteLine("Տեսակավորված թվեր: " + string.Join(", ", numbers));
+    }
+
+    static void TestSelectionSort()
+    {
+        Console.WriteLine("\n=== 9. My Selection Sort Test ===");
+        int[] numbers = { 52, 10, 85, 24, 61, 3, 11 };
+        MySelectionSort<int> intSorter = new MySelectionSort<int>();
+
+        Console.WriteLine("Նախնական թվեր: " + string.Join(", ", numbers));
+        intSorter.Sort(numbers);
+        Console.WriteLine("Տեսակավորված թվեր: " + string.Join(", ", numbers));
+    }
+
+
+
 }
+

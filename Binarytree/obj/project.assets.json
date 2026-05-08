@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Binarytree\\Binarytree.csproj",
+      "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Binarytree\\Binarytree.csproj",
       "projectName": "Binarytree",
-      "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Binarytree\\Binarytree.csproj",
+      "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Binarytree\\Binarytree.csproj",
       "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Binarytree\\obj\\",
+      "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Binarytree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

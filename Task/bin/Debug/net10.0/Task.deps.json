@@ -10,6 +10,8 @@
         "dependencies": {
           "Binarytree": "1.0.0",
           "Homework1LinkedList": "1.0.0",
+          "MyBubleSort": "1.0.0",
+          "MyHashAlgorithm": "1.0.0",
           "MyQueue": "1.0.0",
           "MyStack": "1.0.0"
         },
@@ -28,6 +30,22 @@
       "Homework1LinkedList/1.0.0": {
         "runtime": {
           "Homework1LinkedList.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyBubleSort/1.0.0": {
+        "runtime": {
+          "MyBubleSort.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyHashAlgorithm/1.0.0": {
+        "runtime": {
+          "MyHashAlgorithm.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -69,6 +87,16 @@
       "sha512": ""
     },
     "Homework1LinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBubleSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyHashAlgorithm/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

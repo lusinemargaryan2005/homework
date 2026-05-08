@@ -1,0 +1,12 @@
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\obj\Release\net10.0\MyBubleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\obj\Release\net10.0\MyBubleSort.AssemblyInfoInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\obj\Release\net10.0\MyBubleSort.AssemblyInfo.cs
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\obj\Release\net10.0\MyBubleSort.csproj.CoreCompileInputs.cache
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\obj\Release\net10.0\MyBubleSort.sourcelink.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\bin\Release\net10.0\MyBubleSort.deps.json
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\bin\Release\net10.0\MyBubleSort.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\bin\Release\net10.0\MyBubleSort.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\obj\Release\net10.0\MyBubleSort.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\obj\Release\net10.0\refint\MyBubleSort.dll
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\obj\Release\net10.0\MyBubleSort.pdb
+C:\Users\lusin\Documents\work\Homework_binary_tree\MyBubleSort\obj\Release\net10.0\ref\MyBubleSort.dll

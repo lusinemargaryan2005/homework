@@ -40,7 +40,7 @@ namespace MyHashAlgorithm
             {
                 currentFourBytes = GetNextBytes(startIndex, input);
 
-                unchecked
+                unchecked //overflow
                 {
                     hashValue += currentFourBytes;
                 }

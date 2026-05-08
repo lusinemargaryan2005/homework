@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace WpfMySetProjects
+{
+    public class Student : IComparable<Student>
+    {
+        public Student(int id, string name, Gender gender)
+        {
+            StudentId = id;
+            Name = name;
+            Gender = gender;
+        }
+        public int StudentId { get; set; }
+        public string Name { get; set; }
+        public Gender Gender { get; private set; }
+
+        public int CompareTo(Student other) 
+        {
+            return StudentId.CompareTo(other.StudentId);
+        }
+    }
+}

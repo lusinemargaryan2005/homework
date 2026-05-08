@@ -1,0 +1,12 @@
+C:\Users\lusin\Documents\work\Homework_all\StackArray\bin\Debug\net10.0\StackArray.deps.json
+C:\Users\lusin\Documents\work\Homework_all\StackArray\bin\Debug\net10.0\StackArray.dll
+C:\Users\lusin\Documents\work\Homework_all\StackArray\bin\Debug\net10.0\StackArray.pdb
+C:\Users\lusin\Documents\work\Homework_all\StackArray\obj\Debug\net10.0\StackArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusin\Documents\work\Homework_all\StackArray\obj\Debug\net10.0\StackArray.AssemblyInfoInputs.cache
+C:\Users\lusin\Documents\work\Homework_all\StackArray\obj\Debug\net10.0\StackArray.AssemblyInfo.cs
+C:\Users\lusin\Documents\work\Homework_all\StackArray\obj\Debug\net10.0\StackArray.csproj.CoreCompileInputs.cache
+C:\Users\lusin\Documents\work\Homework_all\StackArray\obj\Debug\net10.0\StackArray.sourcelink.json
+C:\Users\lusin\Documents\work\Homework_all\StackArray\obj\Debug\net10.0\StackArray.dll
+C:\Users\lusin\Documents\work\Homework_all\StackArray\obj\Debug\net10.0\refint\StackArray.dll
+C:\Users\lusin\Documents\work\Homework_all\StackArray\obj\Debug\net10.0\StackArray.pdb
+C:\Users\lusin\Documents\work\Homework_all\StackArray\obj\Debug\net10.0\ref\StackArray.dll

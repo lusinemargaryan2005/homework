@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MyLinkedList.Internal;
+﻿namespace MyLinkedList.Internal;
 
 public class MyLinkedListNode<T>
 {

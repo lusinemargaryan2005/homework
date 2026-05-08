@@ -1,0 +1,37 @@
+﻿namespace MyBubleSort;
+
+public class MyBubbleSort<T> where T : IComparable<T>
+{
+    public void Sort(T[] items)
+    {
+        if (items == null || items.Length <= 1) return;
+
+        bool swapped;
+        do
+        {
+            swapped = false;
+            for (int i = 1; i < items.Length; i++)
+            {
+                if (items[i - 1].CompareTo(items[i]) > 0)
+                {
+                    Swap(items, i - 1, i);
+                    swapped = true;
+                }
+
+            }
+
+        } while (swapped != false);
+    }
+    private void Swap(T[] items, int i, int j)
+    {
+        T temp = items[i];
+        items[i] = items[j];
+        items[j] = temp;
+    }
+}
+
+
+    
+
+
+

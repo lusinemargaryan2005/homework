@@ -9,7 +9,7 @@ public class MyLinkedList<T> : ICollection<T>
     public MyLinkedListNode<T> Tail { get; private set; }
   
 
-    public int Count { get; private set; }
+    public int Count { get; private set; } //property
     public bool IsReadOnly => false;
 
     public void Add(T item)

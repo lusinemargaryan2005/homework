@@ -1,0 +1,15 @@
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\bin\Debug\net10.0\MyChessPro.exe
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\bin\Debug\net10.0\MyChessPro.deps.json
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\bin\Debug\net10.0\MyChessPro.runtimeconfig.json
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\bin\Debug\net10.0\MyChessPro.dll
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\bin\Debug\net10.0\MyChessPro.pdb
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\obj\Debug\net10.0\MyChessPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\obj\Debug\net10.0\MyChessPro.AssemblyInfoInputs.cache
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\obj\Debug\net10.0\MyChessPro.AssemblyInfo.cs
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\obj\Debug\net10.0\MyChessPro.csproj.CoreCompileInputs.cache
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\obj\Debug\net10.0\MyChessPro.sourcelink.json
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\obj\Debug\net10.0\MyChessPro.dll
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\obj\Debug\net10.0\refint\MyChessPro.dll
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\obj\Debug\net10.0\MyChessPro.pdb
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\obj\Debug\net10.0\MyChessPro.genruntimeconfig.cache
+C:\Users\lusin\Documents\work\Homework_all\LogicProblem\obj\Debug\net10.0\ref\MyChessPro.dll

@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyQueue\\MyQueue.csproj",
+      "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyQueue\\MyQueue.csproj",
       "projectName": "MyQueue",
-      "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyQueue\\MyQueue.csproj",
+      "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyQueue\\MyQueue.csproj",
       "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyQueue\\obj\\",
+      "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyQueue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Homework1LinkedList\\Homework1LinkedList.csproj": {
-              "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Homework1LinkedList\\Homework1LinkedList.csproj"
+            "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Homework1LinkedList\\Homework1LinkedList.csproj": {
+              "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Homework1LinkedList\\Homework1LinkedList.csproj"
             }
           }
         }

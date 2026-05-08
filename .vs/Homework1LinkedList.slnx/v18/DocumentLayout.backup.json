@@ -1,22 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\",
+  "WorkspaceRootPath": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\documents\\work\\homework_binary_tree\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A562C65-66FF-4149-B4E0-AA45DF8A5E3C}|WpfMySetProjects\\WpfMySetProjects.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\wpfmysetprojects\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A562C65-66FF-4149-B4E0-AA45DF8A5E3C}|WpfMySetProjects\\WpfMySetProjects.csproj|solutionrelative:wpfmysetprojects\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A562C65-66FF-4149-B4E0-AA45DF8A5E3C}|WpfMySetProjects\\WpfMySetProjects.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\wpfmysetprojects\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A562C65-66FF-4149-B4E0-AA45DF8A5E3C}|WpfMySetProjects\\WpfMySetProjects.csproj|solutionrelative:wpfmysetprojects\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A562C65-66FF-4149-B4E0-AA45DF8A5E3C}|WpfMySetProjects\\WpfMySetProjects.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\wpfmysetprojects\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A562C65-66FF-4149-B4E0-AA45DF8A5E3C}|WpfMySetProjects\\WpfMySetProjects.csproj|solutionrelative:wpfmysetprojects\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A562C65-66FF-4149-B4E0-AA45DF8A5E3C}|WpfMySetProjects\\WpfMySetProjects.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\wpfmysetprojects\\wpfmysetprojects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A562C65-66FF-4149-B4E0-AA45DF8A5E3C}|WpfMySetProjects\\WpfMySetProjects.csproj|solutionrelative:wpfmysetprojects\\wpfmysetprojects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5239CE22-D58D-4220-84FA-4CF8FBF97C29}|Binarytree\\Binarytree.csproj|c:\\users\\lusin\\documents\\work\\homework_binary_tree\\binarytree\\mybinarytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5239CE22-D58D-4220-84FA-4CF8FBF97C29}|Binarytree\\Binarytree.csproj|solutionrelative:binarytree\\mybinarytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0F817DF-E590-418B-8E47-915E9717A311}|MyBubleSort\\MyBubleSort.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\mybublesort\\myselectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F817DF-E590-418B-8E47-915E9717A311}|MyBubleSort\\MyBubleSort.csproj|solutionrelative:mybublesort\\myselectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36F5FA5F-1C9C-4DF6-8065-B7B40837C510}|MyHashAlgorithm\\MyHashAlgorithm.csproj|c:\\users\\lusin\\documents\\work\\homework_binary_tree\\myhashalgorithm\\myhashalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36F5FA5F-1C9C-4DF6-8065-B7B40837C510}|MyHashAlgorithm\\MyHashAlgorithm.csproj|solutionrelative:myhashalgorithm\\myhashalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0F817DF-E590-418B-8E47-915E9717A311}|MyBubleSort\\MyBubleSort.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\mybublesort\\myquicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F817DF-E590-418B-8E47-915E9717A311}|MyBubleSort\\MyBubleSort.csproj|solutionrelative:mybublesort\\myquicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36F5FA5F-1C9C-4DF6-8065-B7B40837C510}|MyHashAlgorithm\\MyHashAlgorithm.csproj|c:\\users\\lusin\\documents\\work\\homework_binary_tree\\myhashalgorithm\\myhashalgorithm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{36F5FA5F-1C9C-4DF6-8065-B7B40837C510}|MyHashAlgorithm\\MyHashAlgorithm.csproj|solutionrelative:myhashalgorithm\\myhashalgorithm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|solutionrelative:task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F817DF-E590-418B-8E47-915E9717A311}|MyBubleSort\\MyBubleSort.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\mybublesort\\margesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F817DF-E590-418B-8E47-915E9717A311}|MyBubleSort\\MyBubleSort.csproj|solutionrelative:mybublesort\\margesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F817DF-E590-418B-8E47-915E9717A311}|MyBubleSort\\MyBubleSort.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\mybublesort\\myinsertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F817DF-E590-418B-8E47-915E9717A311}|MyBubleSort\\MyBubleSort.csproj|solutionrelative:mybublesort\\myinsertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F817DF-E590-418B-8E47-915E9717A311}|MyBubleSort\\MyBubleSort.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\mybublesort\\mybublesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F817DF-E590-418B-8E47-915E9717A311}|MyBubleSort\\MyBubleSort.csproj|solutionrelative:mybublesort\\mybublesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A562C65-66FF-4149-B4E0-AA45DF8A5E3C}|WpfMySetProjects\\WpfMySetProjects.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\wpfmysetprojects\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A562C65-66FF-4149-B4E0-AA45DF8A5E3C}|WpfMySetProjects\\WpfMySetProjects.csproj|solutionrelative:wpfmysetprojects\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\task\\task.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2CFE3135-1321-4DC3-BD92-4F74B497C7E0}|Task\\Task.csproj|solutionrelative:task\\task.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D927BA-7C77-4E92-812A-677F9310C8D0}|MySetProject\\MySetProject.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\mysetproject\\myset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D927BA-7C77-4E92-812A-677F9310C8D0}|MySetProject\\MySetProject.csproj|solutionrelative:mysetproject\\myset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D927BA-7C77-4E92-812A-677F9310C8D0}|MySetProject\\MySetProject.csproj|c:\\users\\lusin\\documents\\work\\homework_all\\mysetproject\\mysetproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0D927BA-7C77-4E92-812A-677F9310C8D0}|MySetProject\\MySetProject.csproj|solutionrelative:mysetproject\\mysetproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +70,198 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Task\\Program.cs",
-              "RelativeDocumentMoniker": "Task\\Program.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Task\\Program.cs",
-              "RelativeToolTip": "Task\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T19:28:51.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyBinarytreeNode.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Binarytree\\MyBinarytreeNode.cs",
-              "RelativeDocumentMoniker": "Binarytree\\MyBinarytreeNode.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\Binarytree\\MyBinarytreeNode.cs",
-              "RelativeToolTip": "Binarytree\\MyBinarytreeNode.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T19:28:38.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MyHashAlgorithm.cs",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyHashAlgorithm\\MyHashAlgorithm.cs",
-              "RelativeDocumentMoniker": "MyHashAlgorithm\\MyHashAlgorithm.cs",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyHashAlgorithm\\MyHashAlgorithm.cs",
-              "RelativeToolTip": "MyHashAlgorithm\\MyHashAlgorithm.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAswEoAAAAJAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\WpfMySetProjects\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfMySetProjects\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\WpfMySetProjects\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfMySetProjects\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T19:27:17.474Z",
+              "WhenOpened": "2026-04-23T05:41:54.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MyHashAlgorithm",
-              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyHashAlgorithm\\MyHashAlgorithm.csproj",
-              "RelativeDocumentMoniker": "MyHashAlgorithm\\MyHashAlgorithm.csproj",
-              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\MyHashAlgorithm\\MyHashAlgorithm.csproj",
-              "RelativeToolTip": "MyHashAlgorithm\\MyHashAlgorithm.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Title": "WpfMySetProjects.csproj",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\WpfMySetProjects\\WpfMySetProjects.csproj",
+              "RelativeDocumentMoniker": "WpfMySetProjects\\WpfMySetProjects.csproj",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\WpfMySetProjects\\WpfMySetProjects.csproj",
+              "RelativeToolTip": "WpfMySetProjects\\WpfMySetProjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T16:32:50.024Z",
+              "WhenOpened": "2026-05-04T09:57:36.477Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAwwI4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T05:50:49.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Task\\Task.csproj",
+              "RelativeDocumentMoniker": "Task\\Task.csproj",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Task\\Task.csproj",
+              "RelativeToolTip": "Task\\Task.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T17:40:27.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\WpfMySetProjects\\Student.cs",
+              "RelativeDocumentMoniker": "WpfMySetProjects\\Student.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\WpfMySetProjects\\Student.cs",
+              "RelativeToolTip": "WpfMySetProjects\\Student.cs",
+              "ViewState": "AgIAAAgAAADQCmJy7fYzwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:56:45.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\WpfMySetProjects\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfMySetProjects\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\WpfMySetProjects\\MainWindow.xaml*",
+              "RelativeToolTip": "WpfMySetProjects\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T09:57:51.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySelectionSort.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyBubleSort\\MySelectionSort.cs",
+              "RelativeDocumentMoniker": "MyBubleSort\\MySelectionSort.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyBubleSort\\MySelectionSort.cs",
+              "RelativeToolTip": "MyBubleSort\\MySelectionSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T05:39:00.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MargeSort.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyBubleSort\\MargeSort.cs",
+              "RelativeDocumentMoniker": "MyBubleSort\\MargeSort.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyBubleSort\\MargeSort.cs",
+              "RelativeToolTip": "MyBubleSort\\MargeSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:44:52.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyQuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyBubleSort\\MyQuickSort.cs",
+              "RelativeDocumentMoniker": "MyBubleSort\\MyQuickSort.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyBubleSort\\MyQuickSort.cs",
+              "RelativeToolTip": "MyBubleSort\\MyQuickSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:20:23.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyInsertionSort.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyBubleSort\\MyInsertionSort.cs",
+              "RelativeDocumentMoniker": "MyBubleSort\\MyInsertionSort.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyBubleSort\\MyInsertionSort.cs",
+              "RelativeToolTip": "MyBubleSort\\MyInsertionSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:05:36.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyBubleSort.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyBubleSort\\MyBubleSort.cs",
+              "RelativeDocumentMoniker": "MyBubleSort\\MyBubleSort.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MyBubleSort\\MyBubleSort.cs",
+              "RelativeToolTip": "MyBubleSort\\MyBubleSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:46:01.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\WpfMySetProjects\\Gender.cs",
+              "RelativeDocumentMoniker": "WpfMySetProjects\\Gender.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\WpfMySetProjects\\Gender.cs",
+              "RelativeToolTip": "WpfMySetProjects\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:56:52.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MySetProject.csproj",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MySetProject\\MySetProject.csproj",
+              "RelativeDocumentMoniker": "MySetProject\\MySetProject.csproj",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MySetProject\\MySetProject.csproj",
+              "RelativeToolTip": "MySetProject\\MySetProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T20:34:50.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Task\\Task.csproj",
+              "RelativeDocumentMoniker": "Task\\Task.csproj",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\Task\\Task.csproj",
+              "RelativeToolTip": "Task\\Task.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T06:20:45.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MySet.cs",
+              "DocumentMoniker": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MySetProject\\MySet.cs",
+              "RelativeDocumentMoniker": "MySetProject\\MySet.cs",
+              "ToolTip": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\MySetProject\\MySet.cs",
+              "RelativeToolTip": "MySetProject\\MySet.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0UAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:34:56.022Z"
             }
           ]
         }

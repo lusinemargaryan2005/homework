@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\StackArray\\StackArray.csproj": {}
+    "C:\\Users\\lusin\\Documents\\work\\Homework_all\\StackArray\\StackArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\StackArray\\StackArray.csproj": {
+    "C:\\Users\\lusin\\Documents\\work\\Homework_all\\StackArray\\StackArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\StackArray\\StackArray.csproj",
+        "projectUniqueName": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\StackArray\\StackArray.csproj",
         "projectName": "StackArray",
-        "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\StackArray\\StackArray.csproj",
+        "projectPath": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\StackArray\\StackArray.csproj",
         "packagesPath": "C:\\Users\\lusin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework_binary_tree\\StackArray\\obj\\",
+        "outputPath": "C:\\Users\\lusin\\Documents\\work\\Homework_all\\StackArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
