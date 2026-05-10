@@ -23,7 +23,7 @@ namespace MyBubleSort
         T[] left = new T[leftSize];
         T[] right = new T[rightSize];
 
-        Array.Copy(items, 0, left, 0, leftSize);
+        Array.Copy(items, 0, left, 0, leftSize);//items-ի 0-րդ դիրքից վերցնում է leftSize հատ էլեմենտ, և տեղադրում է left-ի 0-րդ դիրքից սկսած"
         Array.Copy(items, leftSize, right, 0, rightSize);
 
         Sort(left);
@@ -62,8 +62,7 @@ namespace MyBubleSort
             }
         }
 
-            
-
+           
 
 
             private void Assign(T[] items, int index, T Value)

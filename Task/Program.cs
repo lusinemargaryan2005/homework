@@ -96,9 +96,9 @@ class Program
         Console.WriteLine("\n=== 5. My Bubble Sort Test ===");
         int[] numbers = { 52, 10, 85, 24, 61, 3, 11 };
         MyBubbleSort<int> intSorter = new MyBubbleSort<int>();
-        Console.WriteLine("Նախնական թվեր: " + string.Join(", ", numbers));
+        Console.WriteLine("Start Number " + string.Join(", ", numbers));
         intSorter.Sort(numbers);
-        Console.WriteLine("Տեսակավորված թվեր: " + string.Join(", ", numbers));
+        Console.WriteLine("End Number" + string.Join(", ", numbers));
     }
 
     static void TestMargeSort()
@@ -106,9 +106,9 @@ class Program
         Console.WriteLine("\n=== 6. My Marge Sort Test ===");
         int[] numbers = { 52, 10, 85, 24, 61, 3, 11 };
         MargeSort<int> intSorter = new MargeSort<int>();
-        Console.WriteLine("Նախնական թվեր: " + string.Join(", ", numbers));
+        Console.WriteLine("Start Number " + string.Join(", ", numbers));
         intSorter.Sort(numbers);
-        Console.WriteLine("Տեսակավորված թվեր: " + string.Join(", ", numbers));
+        Console.WriteLine("End Number " + string.Join(", ", numbers));
     }
     static void TestInsertionSort()
     {
@@ -116,9 +116,9 @@ class Program
         int[] numbers = { 52, 10, 85, 24, 61, 3, 11 };
         MyInsertionSort<int> intSorter = new MyInsertionSort<int>();
 
-        Console.WriteLine("Նախնական թվեր: " + string.Join(", ", numbers));
+        Console.WriteLine("Start Number " + string.Join(", ", numbers));
         intSorter.Sort(numbers);
-        Console.WriteLine("Տեսակավորված թվեր: " + string.Join(", ", numbers));
+        Console.WriteLine("End Number " + string.Join(", ", numbers));
     }
 
     static void TestQuickSort() 
@@ -127,9 +127,9 @@ class Program
         int[] numbers = { 52, 10, 85, 24, 61, 3, 11 };
         MyQuickSort<int> intSorter = new MyQuickSort<int>();
 
-        Console.WriteLine("Նախնական թվեր: " + string.Join(", ", numbers));
+        Console.WriteLine("Start Number " + string.Join(", ", numbers));
         intSorter.Sort(numbers);
-        Console.WriteLine("Տեսակավորված թվեր: " + string.Join(", ", numbers));
+        Console.WriteLine("End Number" + string.Join(", ", numbers));
     }
 
     static void TestSelectionSort()
@@ -138,9 +138,9 @@ class Program
         int[] numbers = { 52, 10, 85, 24, 61, 3, 11 };
         MySelectionSort<int> intSorter = new MySelectionSort<int>();
 
-        Console.WriteLine("Նախնական թվեր: " + string.Join(", ", numbers));
+        Console.WriteLine("Start Number " + string.Join(", ", numbers));
         intSorter.Sort(numbers);
-        Console.WriteLine("Տեսակավորված թվեր: " + string.Join(", ", numbers));
+        Console.WriteLine("End Number " + string.Join(", ", numbers));
     }
 
 

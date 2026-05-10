@@ -1,7 +1,10 @@
 ﻿//MatrixDiagonal
-PrintMainDiagonal(8);
+MainDiagonal(8);
+Auxiliarydiagonal(20);
+CheckRookMove(8, 3, 5, 7, 2);
 
-void PrintMainDiagonal(int matrixSize)
+
+void MainDiagonal(int matrixSize)
 {
     char[,] mtx = new char[matrixSize, matrixSize];
 
@@ -32,10 +35,42 @@ void PrintMainDiagonal(int matrixSize)
         Console.WriteLine();
     }
 
+
+}
+void Auxiliarydiagonal(int matrixSize)
+{
+    char[,] mtx = new char[matrixSize, matrixSize];
+
+    for (int i = 0; i < matrixSize; i++)
+    {
+        for (int j = 0; j < matrixSize; j++)
+        {
+            mtx[i, j] = '*';
+
+            if (i + j == matrixSize - 1)
+            {
+                mtx[i, j] = '#';
+            }
+
+            if (i + j == matrixSize - 1)
+            {
+                mtx[i, j] = '~';
+            }
+        }
+    }
+
+    for (int i = 0; i < matrixSize; i++)
+    {
+        for (int j = 0; j < matrixSize; j++)
+        {
+            Console.Write(mtx[i, j] + " ");
+        }
+        Console.WriteLine();
+    }
+
 }
 
-// CHess Rock
-CheckRookMove(8, 3, 5, 7,2);
+
 
 void CheckRookMove(int size, int startRow, int startCol, int endRow, int endCol)
 {
@@ -121,11 +156,11 @@ List<(int, int)> KnightShortestPath(int x1, int y1, int x2, int y2)
     int[] dx = { 2, 2, -2, -2, 1, 1, -1, -1 };
     int[] dy = { 1, -1, 1, -1, 2, -2, 2, -2 };
 
-    var parent = new Dictionary<(int, int), (int, int)?>();
-    parent[(x1, y1)] = null;
+    var parent = new Dictionary<(int, int), (int, int)?>();//սկզբնական կետից ինչ որ տեղ ուր հասելա
+    parent[(x1, y1)] = null;//ինչ որ տեղից չի եկել
 
-    var current = new List<(int, int)> { (x1, y1) };
-
+    var current = new List<(int, int)>();// 
+    current.Add((x1, y1));// մեր սկզբնական կորդինատին տալիս ենք ներկա կորդինատը
     while (current.Count > 0)
     {
         var next = new List<(int, int)>();
@@ -135,11 +170,11 @@ List<(int, int)> KnightShortestPath(int x1, int y1, int x2, int y2)
             if (cx == x2 && cy == y2)
             {
                 var path = new List<(int, int)>();
-                (int, int)? node = (cx, cy);
-                while (node != null)
+                (int, int)? step = (cx, cy);//սա վերջի քայլի կորդինատնա 
+                while (step != null)
                 {
-                    path.Add(node.Value);
-                    node = parent[node.Value];
+                    path.Add(step.Value);
+                    step = parent[step.Value];//իրա հետ գնացած նախորդ քայլը
                 }
                 path.Reverse();
                 return path;
