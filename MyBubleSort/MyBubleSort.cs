@@ -12,9 +12,9 @@ public class MyBubbleSort<T> where T : IComparable<T>
             swapped = false;
             for (int i = 1; i < items.Length; i++)
             {
-                if (items[i - 1].CompareTo(items[i]) > 0)
+                if (items[i - 1].CompareTo(items[i]) > 0)//ստուգում ենք եթե նախորդ էլեմենտը մեծ է հաջորդ էլեմենտից
                 {
-                    Swap(items, i - 1, i);
+                    Swap(items, i - 1, i);// տեղերով փոխում ենք 
                     swapped = true;
                 }
 

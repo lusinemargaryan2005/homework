@@ -6,13 +6,13 @@
         {
             int n = array.Length;
 
-            for (int i = 0; i < n - 1; i++)
+            for (int i = 0; i < n - 1; i++)//միչև նախավերջին տարրը մեկով առաջ գնա
             {
-                int minIndex = i;
+                int minIndex = i; //հետո Minindexին տալիս են այն տարրը որի վրայով որ անցել ենք 
 
-                for (int j = i + 1; j < n; j++)
+                for (int j = i + 1; j < n; j++) //զնցնումենք միչև վերջին տարրը 
                 {
-                    if (array[j].CompareTo(array[minIndex]) < 0)
+                    if (array[j].CompareTo(array[minIndex]) < 0) //եթե j փոքր է մեր mindexից
                     {
                         minIndex = j;
                     }
