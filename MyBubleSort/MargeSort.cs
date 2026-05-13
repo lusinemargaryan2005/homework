@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.Design;
-using System.Linq.Expressions;
-using System.Text;
-
-namespace MyBubleSort
+﻿namespace MyBubleSort
 {
     public class MargeSort<T>
         where T : IComparable<T>
@@ -42,7 +36,7 @@ namespace MyBubleSort
             {
                 if (leftIndex >= left.Length)
                 {
-                    Assign(items, targetIndex, right[rightIndex++]);
+                    Assign(items, targetIndex, right[rightIndex++]);//վերցնումա rightի ընթացիկ առաջի տարը դնումա զանգվածի մեջ և մեկ հատով առաջ է գնում 
                 }
                 else if (rightIndex >= right.Length)
                 {
@@ -71,3 +65,13 @@ namespace MyBubleSort
     }
 }
 }
+
+
+
+
+
+
+
+
+
+//Lusine Margaryan

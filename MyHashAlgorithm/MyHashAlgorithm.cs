@@ -38,16 +38,16 @@ namespace MyHashAlgorithm
 
             do
             {
-                currentFourBytes = GetNextBytes(startIndex, input);
+                currentFourBytes = GetNextBytes(startIndex, input);// մենք վերցնում ենք տողը սկզբից ու 4ով բաժանում
 
                 unchecked //overflow
                 {
-                    hashValue += currentFourBytes;
+                    hashValue += currentFourBytes; // մեր վերցած 4 նիշի արդյունքը գերազանցում է ինքը սկսում է փոքարացնել
                 }
+                 
+                startIndex += 4;// սկսում է աշխատել հաջորդ 4ի վրա 
 
-                startIndex += 4;
-
-            } while (currentFourBytes != 0);
+            } while (currentFourBytes != 0); // մինչև հասնի վերջինը վերադարձնի hashvalu
 
             return hashValue;
         }
@@ -56,7 +56,7 @@ namespace MyHashAlgorithm
         {
             int currentFourBytes = 0;
 
-            currentFourBytes += GetByte(str, startIndex);
+            currentFourBytes += GetByte(str, startIndex); //սկսում է 4 նիշից և հերթով 4ով ավելանում 
             currentFourBytes += GetByte(str, startIndex + 1) << 8;
             currentFourBytes += GetByte(str, startIndex + 2) << 16;
             currentFourBytes += GetByte(str, startIndex + 3) << 24;

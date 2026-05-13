@@ -197,3 +197,23 @@ List<(int, int)> KnightShortestPath(int x1, int y1, int x2, int y2)
 
     return new List<(int, int)>();
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Lusine Margaryan

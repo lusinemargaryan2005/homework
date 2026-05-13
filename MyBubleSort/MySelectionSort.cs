@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MyBubleSort
+﻿namespace MyBubleSort
 {
     public class MySelectionSort<T> where T : IComparable<T>
     {
@@ -29,3 +25,18 @@ namespace MyBubleSort
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Lusine Margaryan

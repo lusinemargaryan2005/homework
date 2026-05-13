@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections;
 
 public class MySet<T> : IEnumerable<T>
 {
@@ -57,7 +54,7 @@ public class MySet<T> : IEnumerable<T>
         MySet<T> result = new MySet<T>();
         foreach (T item in _items)
         {
-            if (other._items.Contains(item))
+            if (other._items.Contains(item))//եթե itemsԻ տարրը կա otherի մեջ
             {
                 result.Add(item);
             }
@@ -77,9 +74,9 @@ public class MySet<T> : IEnumerable<T>
 
     public MySet<T> SymmetricDifference(MySet<T> other)
     {
-        MySet<T> union = Union(other);
-        MySet<T> intersection = Intersection(other);
-        return union.Difference(intersection);
+        MySet<T> union = Union(other); //միավորում է բոլոր տարրեը
+        MySet<T> intersection = Intersection(other);//հատումն է
+        return union.Difference(intersection); //Միավորումից հանում է հատումը։
     }
 
     private void AddSkipDuplicates(T item)
@@ -102,3 +99,21 @@ public class MySet<T> : IEnumerable<T>
 
     IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Lusine Margaryan

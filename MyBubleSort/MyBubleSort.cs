@@ -18,7 +18,7 @@ public class MyBubbleSort<T> where T : IComparable<T>
                     swapped = true;
                 }
 
-            }
+             }
 
         } while (swapped != false);
     }
@@ -35,3 +35,7 @@ public class MyBubbleSort<T> where T : IComparable<T>
 
 
 
+
+
+
+//Lusine Margaryan
